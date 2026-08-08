@@ -1,7 +1,7 @@
 ## JapaSS
 Cyber Security • Privacy • Data Protection
 
-Privacy is not a feature. It's a right.
+Privacy is not a feature, it's a right.
 
 <div align="center">
   <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="100px" alt="GitHub Readme Stats" />
