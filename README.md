@@ -28,6 +28,20 @@
 
 <br>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+</div>
+
+                  🌲
+             🌲        🌲
+        🌲        ☾         🌲
+             🌲        🌲
+                  🌲
+
+       every contribution leaves a trace.
+       
 ## `♡` about me
 
 I'm a developer and cybersecurity enthusiast who enjoys understanding how things work **under the hood**.
