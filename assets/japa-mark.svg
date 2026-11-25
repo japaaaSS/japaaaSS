@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180" role="img" aria-label="Japa monogram">
+  <defs>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eadde2"/>
+      <stop offset="0.48" stop-color="#8d3449"/>
+      <stop offset="1" stop-color="#32111c"/>
+    </linearGradient>
+  </defs>
+  <circle cx="90" cy="90" r="79" fill="#0b090c" stroke="url(#rim)" stroke-width="2"/>
+  <circle cx="90" cy="90" r="69" fill="none" stroke="#5d2031" stroke-width="1"/>
+  <path d="M90 15 C108 39 108 55 90 70 C72 55 72 39 90 15Z M90 165 C72 141 72 125 90 110 C108 125 108 141 90 165Z M15 90 C39 72 55 72 70 90 C55 108 39 108 15 90Z M165 90 C141 108 125 108 110 90 C125 72 141 72 165 90Z" fill="none" stroke="#8d3449" stroke-width="1.2"/>
+  <path d="M42 42 L138 138 M138 42 L42 138" stroke="#512031" stroke-width="0.8"/>
+  <text x="90" y="107" text-anchor="middle" font-family="Georgia,serif" font-size="58" font-style="italic" fill="#eadde2">J</text>
+  <circle cx="90" cy="90" r="4" fill="#a84259"/>
+</svg>

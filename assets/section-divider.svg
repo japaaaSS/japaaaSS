@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="46" viewBox="0 0 1600 46" role="img" aria-label="Crimson ornamental divider">
+  <defs>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#4a1724" stop-opacity="0"/>
+      <stop offset="0.24" stop-color="#7f2a3d"/>
+      <stop offset="0.5" stop-color="#d8c2ca"/>
+      <stop offset="0.76" stop-color="#7f2a3d"/>
+      <stop offset="1" stop-color="#4a1724" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 23 H690 M910 23 H1600" stroke="url(#line)" stroke-width="1.2" fill="none"/>
+  <path d="M690 23 C735 23 750 8 790 8 C770 20 770 26 800 23 C830 26 830 20 810 8 C850 8 865 23 910 23" fill="none" stroke="#8f3549" stroke-width="1"/>
+  <path d="M800 5 L805 18 L818 23 L805 28 L800 41 L795 28 L782 23 L795 18 Z" fill="none" stroke="#d8c2ca" stroke-width="1.1"/>
+  <circle cx="800" cy="23" r="2.2" fill="#d8c2ca"/>
+  <path d="M746 23 l-14 -8 -14 8 14 8z M854 23 l14 -8 14 8 -14 8z" fill="none" stroke="#6f2638" stroke-width="1"/>
+  <circle cx="700" cy="23" r="2" fill="#8f3549"/><circle cx="900" cy="23" r="2" fill="#8f3549"/>
+</svg>
